@@ -3,6 +3,8 @@
   <img src="https://github.com/Gunjankadam/Gunjankadam/blob/main/Header.png" alt="Banner" width="100%" />
 </p>
 
+
+---
 <p align="center">
 
   <a href="https://your-portfolio-link.com" target="_blank">
@@ -10,7 +12,7 @@
   </a>
 
   <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Resume-black?style=for-the-badge&logoColor=white&color=black&labelColor=black" />
+    <img src="https://img.shields.io/badge/📄%20Resume-black?style=for-the-badge&logoColor=white&color=black&labelColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
@@ -18,19 +20,17 @@
   </a>
 
   <a href="https://github.com/yourusername?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kadamgunjan27@gmail.com">
+    <img src="https://img.shields.io/badge/%20Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </p>
 
 
-
-<h1 align="center">Hi, I'm Gunjan Kadam 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Python | Java</h3>
+---
 
 ---
 
