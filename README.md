@@ -4,14 +4,13 @@
 </p>
 
 
----
 <p align="center">
 
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://your-portfolio-link.com" target="">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-black?style=for-the-badge&logoColor=white&color=black&labelColor=black&border=red" />
   </a>
 
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://your-resume-link.com" target="">
     <img src="https://img.shields.io/badge/📄%20Resume-black?style=for-the-badge&logoColor=white&color=black&labelColor=white" />
   </a>
 
@@ -30,44 +29,31 @@
 </p>
 
 
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0236.gif" alt="Rain Divider" width="100%" height= "20px" />
+</p>
+
 ---
+### About Me
+
+<p align="right">
+  <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="200" height="200" />
+</p>
+
+- 💬 Ask me about **Python, Java, MySQL, MongoDB, Express, Node**
+- 👨‍💻 Check out my work on [GitHub Repositories](https://github.com/Gunjankadam?tab=repositories)
+- 📫 Reach me at  
+  📧 **kadamgunjan27@gmail.com**  
+  🎓 **gunjan.kadam@somaiya.edu**
+- ⚡ Fun fact: **There are over 700 programming languages!**
 
 ---
 
 ### 💼 Tech Stack
 
-<p align="center">
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+
 
 ---
 
@@ -84,18 +70,6 @@
 
 ---
 
-### 🧠 About Me
-
-<p align="right">
-  <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="200" height="200" />
-</p>
-
-- 💬 Ask me about **Python, Java, MySQL, MongoDB, Express, Node**
-- 👨‍💻 Check out my work on [GitHub Repositories](https://github.com/Gunjankadam?tab=repositories)
-- 📫 Reach me at  
-  📧 **kadamgunjan27@gmail.com**  
-  🎓 **gunjan.kadam@somaiya.edu**
-- ⚡ Fun fact: **There are over 700 programming languages!**
 
 ---
 
