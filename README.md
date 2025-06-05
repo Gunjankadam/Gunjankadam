@@ -3,6 +3,42 @@
   <img src="https://github.com/Gunjankadam/Gunjankadam/blob/main/Header.png" alt="Banner" width="100%" />
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://your-portfolio-link.com" target="_blank">
+        <img src="https://img.icons8.com/material-outlined/24/FFFFFF/globe--v1.png" alt="Portfolio" width="20" />
+        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Portfolio</span>
+      </a>
+    </td>
+    <td>
+      <a href="https://your-resume-link.com" target="_blank">
+        <img src="https://img.icons8.com/ios/24/FFFFFF/resume.png" alt="Resume" width="20" />
+        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Resume</span>
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/yourprofile" target="_blank">
+        <img src="https://img.icons8.com/fluency/24/linkedin.png" alt="LinkedIn" />
+        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">LinkedIn</span>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yourusername?tab=repositories" target="_blank">
+        <img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" alt="Repositories" />
+        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Repositories</span>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/new-post.png" alt="Email" />
+        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Email Me</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <h1 align="center">Hi, I'm Gunjan Kadam 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Python | Java</h3>
 
