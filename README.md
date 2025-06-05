@@ -3,40 +3,30 @@
   <img src="https://github.com/Gunjankadam/Gunjankadam/blob/main/Header.png" alt="Banner" width="100%" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://your-portfolio-link.com" target="_blank">
-        <img src="https://img.icons8.com/material-outlined/24/FFFFFF/globe--v1.png" alt="Portfolio" width="20" />
-        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Portfolio</span>
-      </a>
-    </td>
-    <td>
-      <a href="https://your-resume-link.com" target="_blank">
-        <img src="https://img.icons8.com/ios/24/FFFFFF/resume.png" alt="Resume" width="20" />
-        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Resume</span>
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://img.icons8.com/fluency/24/linkedin.png" alt="LinkedIn" />
-        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">LinkedIn</span>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/yourusername?tab=repositories" target="_blank">
-        <img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" alt="Repositories" />
-        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Repositories</span>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:your.email@example.com">
-        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/new-post.png" alt="Email" />
-        <span style="background:black; color:white; border: 2px solid red; padding: 5px 10px; margin-left:5px; border-radius: 5px;">Email Me</span>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-black?style=for-the-badge&logoColor=white&color=black&labelColor=black&border=red" />
+  </a>
+
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-black?style=for-the-badge&logoColor=white&color=black&labelColor=black" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/yourusername?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
 
 
 <h1 align="center">Hi, I'm Gunjan Kadam 👋</h1>
