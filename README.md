@@ -1,5 +1,5 @@
 <div style="
-  background: url('23964.jpg') no-repeat center center;
+  background: url('https://github.com/Gunjankadam/Gunjankadam/blob/main/23964.jpg') no-repeat center center;
   background-size: cover;
   padding: 100px 20px;
   text-align: center;
