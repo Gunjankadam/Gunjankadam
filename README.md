@@ -29,7 +29,7 @@
 
 <p align ="left"><img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" align= "right" width="200" height="200"/>
 
-- 👨‍💻 I'm a Computer Science Major passionate about Frontend and Backend Engineering, Machine Learning, and Solving Real-world Problem-solving. 
+- 👨‍💻 I'm a Computer Science Major passionate about Frontend and Backend Engineering, Machine Learning, and Real-world Problem-solving. 
   
 - 💬 Ask me about **Python, Java, SQL, MongoDB, NodeJS, Express, React, PyTorch, Flask, Azure, Git, and more.**
 
