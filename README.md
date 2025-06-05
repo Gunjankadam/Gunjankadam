@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Gunjankadam/Gunjankadam/blob/main/23964.jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/Gunjankadam/Gunjankadam/blob/main/Header.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Gunjan Kadam 👋</h1>
