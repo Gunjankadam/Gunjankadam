@@ -4,48 +4,53 @@
 </p>
 
 
-<p align="center">
-
-  <a href="https://your-portfolio-link.com" target="">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-black?style=for-the-badge&logoColor=white&color=black&labelColor=black&border=red" />
-  </a>
-
-  <a href="https://your-resume-link.com" target="">
-    <img src="https://img.shields.io/badge/📄%20Resume-black?style=for-the-badge&logoColor=white&color=black&labelColor=white" />
-  </a>
-
+<div align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-ED254E?style=for-the-badge&logoColor=white&color=ED254E&labelColor=ED254E" />
+  </a>&nbsp;
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-ED254E?style=for-the-badge&logoColor=white&color=ED254E&labelColor=ED254E" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/yourusername?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-ED254E?style=for-the-badge&logo=linkedin&logoColor=white&color=ED254E&labelColor=ED254E" />
+  </a>&nbsp;
+  <a href="https://github.com/Gunjankadam?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/%20Repositories-ED254E?style=for-the-badge&logo=github&logoColor=white&color=ED254E" />
+  </a>&nbsp;
   <a href="mailto:kadamgunjan27@gmail.com">
-    <img src="https://img.shields.io/badge/%20Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Email-ED254E?style=for-the-badge&logo=gmail&logoColor=white&color=ED254E" />
   </a>
+</div>
 
-</p>
+
 
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0236.gif" alt="Rain Divider" width="100%" height= "20px" />
 </p>
 
----
 ### About Me
 
-<p align="right">
-  <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="200" height="200" />
-</p>
+<div align="center">
+  <div align ="right">
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="200" height="200" />
+  </div>
+  </div>
+   <div align ="left">
+  <div style="display: inline-block; text-align: left; max-width: 600px; margin-left: 20px; vertical-align: top;">
+    <p>
+      ⚡ I'm <strong>Gunjan Kadam</strong>, a final-year Computer Science student at <strong>KJ Somaiya Institute of Technology</strong> with a CGPA of 9.7.<br><br>
+      ⚡I build intelligent, scalable solutions — from real-time logistics systems and AI-driven diagnostic tools to natural language SQL automation.<br><br>
+      ⚡ Passionate about machine learning, backend engineering, and real-world problem-solving. 
+      ⚡ Tech Stack: Python, Java, SQL, MongoDB, NodeJS, Express, React, PyTorch, Flask, Azure, Git, and more.<br><br>
+      ⚡ Fun fact: <strong>The first computer bug was a real moth stuck in hardware.</strong>
+    </p>
+  </div>
+   </div>
+</div>
 
-- 💬 Ask me about **Python, Java, MySQL, MongoDB, Express, Node**
-- 👨‍💻 Check out my work on [GitHub Repositories](https://github.com/Gunjankadam?tab=repositories)
-- 📫 Reach me at  
-  📧 **kadamgunjan27@gmail.com**  
-  🎓 **gunjan.kadam@somaiya.edu**
-- ⚡ Fun fact: **There are over 700 programming languages!**
+
 
 ---
 
