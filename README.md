@@ -62,7 +62,7 @@
 ### Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,nodejs,react,express,html,css,dart,androidstudio,next,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,nodejs,react,express,html,css,androidstudio,next,tensorflow)](https://skillicons.dev)
 
 
 <p align="center">
