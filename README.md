@@ -1,7 +1,73 @@
-![MasterHead](https://github.com/Gunjankadam/Gunjankadam/blob/main/WEB%20DEVELOPER%20AI%20ENTHUSIAST.gif)
+<div style="
+  background: url('23964.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+  font-family: Arial, sans-serif;
+">
 
-<h1 align="center">Hi 👋, I'm Gunjan Kadam</h1>
-<h3 align="center">A passionate web developer from India</h3>
+  <a href="https://jfmartinz.dev" style="text-decoration: none; color: white;">
+    <h1 style="font-size: 3em;">FULL STACK DEVELOPER</h1>
+    <h3 style="font-size: 1.5em;">I'm Gunjan Kadam</h3>
+  </a>
+
+  <div style="margin: 30px 0;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      
+      <!-- Icon Template -->
+      <a href="https://expressjs.com" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://nodejs.org" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://www.mongodb.com/" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://reactjs.org/" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://nextjs.org/" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://www.python.org" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://www.java.com" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://threejs.org/" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://www.w3.org/html/" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+      </a>
+
+      <a href="https://www.w3schools.com/css/" target="_blank" style="background: white; border-radius: 8px; padding: 5px; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+      </a>
+    </div>
+  </div>
+
+  <div style="margin-top: 40px; gap: 20px;">
+    <a href="#">
+      <img src="https://img.shields.io/badge/🌐%20Portfolio-24292e?style=for-the-badge" />
+    </a>
+    <a href="mailto:se.kadamgunjan27@gmail.com">
+      <img src="https://img.shields.io/badge/📧%20kadamgunjan27@gmail.com-D14836?style=for-the-badge" />
+    </a>
+  </div>
+</div>
+
 
 <p align="left">
   <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" align="right" width="200" height="200" />
