@@ -22,12 +22,12 @@
 
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0236.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
 </p>
 
 ### About Me
 
-<p align ="left"><img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" align= "right" width="200" height="200"/>
+<p align ="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4c3YxbGJpajA5dThqemRqbGVxeTZ1MjBkcmR4bWtxaml2OWZqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif" align= "right" width="400" height="200"/>
 
 - 👨‍💻 I'm a Computer Science Major passionate about Frontend and Backend Engineering, Machine Learning, and Real-world Problem-solving. 
   
@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0236.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
 </p>
 
 ### GitHub Stats
@@ -47,16 +47,16 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Gunjankadam&theme=radical&hide_border=false" width="400" height="200" />
+      <img src="https://streak-stats.demolab.com?user=Gunjankadam&theme=shadow_red&hide_border=false" width="400" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankadam&layout=compact&theme=radical" width="400" height="160" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankadam&layout=compact&theme=shadow_red" width="400" height="160" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0236.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
 </p>
 
 ### Tech Stack
@@ -66,7 +66,7 @@
 
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0236.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
 </p>
 
 ### Contact Me
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0236.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
 </p>
 
 
