@@ -8,7 +8,7 @@
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-ED254E?style=for-the-badge&logoColor=white&color=ED254E&labelColor=ED254E" />
   </a>&nbsp;
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://github.com/Gunjankadam/Gunjankadam/blob/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Resume-ED254E?style=for-the-badge&logoColor=white&color=ED254E&labelColor=ED254E" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/gunjan-kadam-4272b22b9/" target="_blank">
