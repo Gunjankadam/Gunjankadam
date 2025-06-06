@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Gunjankadam/Gunjankadam/blob/main/Header.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Gunjankadam/Gunjankadam/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 
@@ -71,7 +71,7 @@
 
 ### Contact Me
 
-<p>
+<p align="center">
   <a href="mailto:kadamgunjan27@gmail.com">
     <img src="https://img.shields.io/badge/📧%20kadamgunjan27@gmail.com-ED254E?style=for-the-badge" />
   </a>
