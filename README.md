@@ -50,7 +50,7 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=GunjanKadam&theme=shadow_red&hide_border=false" width="400" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankadam&layout=compact&theme=shadow_red" width="400" height="160" />
+      <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=GunjanKadam&layout=compact&card_width=400&theme=radical&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBo" />
     </td>
   </tr>
 </table>
