@@ -47,7 +47,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Gunjankadam&theme=shadow_red&hide_border=false" width="400" height="200" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=GunjanKadam&theme=shadow_red&hide_border=false" width="400" height="200" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankadam&layout=compact&theme=shadow_red" width="400" height="160" />
