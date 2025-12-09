@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://my-portfolio-six-silk-14.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-ED254E?style=for-the-badge&logoColor=white&color=ED254E&labelColor=ED254E" />
   </a>&nbsp;
   <a href="https://github.com/Gunjankadam/Gunjankadam/blob/main/resume.pdf" target="_blank">
