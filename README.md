@@ -47,7 +47,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=GunjanKadam&theme=shadow_red&hide_border=false" width="400" height="200" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=GunjanKadam&theme=monokai" width="400" height="200" />
     </td>
     <td>
       <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=GunjanKadam&layout=compact&card_width=400&theme=radical&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBo" />
